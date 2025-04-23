@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Universal Yoga Admin</string>
+    <string name="title_activity_add_edit_course">Course Details</string>
+
+    <!-- Array values for spinners -->
+    <string-array name="days_of_week">
+        <item>Select Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="yoga_types">
+        <item>Select Type</item>
+        <item>Flow Yoga</item>
+        <item>Aerial Yoga</item>
+        <item>Family Yoga</item>
+        <item>Hatha Yoga</item>
+        <item>Power Yoga</item>
+        <item>Yin Yoga</item>
+        <item>Meditation</item>
+    </string-array>
+
+    <string-array name="difficulty_levels">
+        <item>Select Difficulty</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+        <item>All Levels</item>
+    </string-array>
+</resources>
